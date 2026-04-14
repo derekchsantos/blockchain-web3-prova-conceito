@@ -1,0 +1,10 @@
+{
+  "Logistica.sol": {
+    "__sources__": {
+      "Logistica.sol": {
+        "content": "//SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.1;\r\n\r\ncontract Logistica {\r\n    string public status;\r\n\r\n    //Função que vai ser executado\r\n    function resgistrarEnvio() public {\r\n        status = \"Produto enviado\";\r\n    }\r\n    \r\n}",
+        "file": "Logistica.sol"
+      }
+    }
+  }
+}

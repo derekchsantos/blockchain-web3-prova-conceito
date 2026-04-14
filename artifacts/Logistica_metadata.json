@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "resgistrarEnvio",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "status",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Logistica.sol": "Logistica"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Logistica.sol": {
+			"keccak256": "0xb658328c6dc6b07d2acfde89152328bcf775fbdab1393729f2891025267ad019",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7bf8cd91b53fb00569102eff130edb01ca36c7d935c12c2881c9d37cc248756e",
+				"dweb:/ipfs/QmRyr2YQot35mhNSuS5PgzfHfsjsV9L5bPgLMRRX8A3HqC"
+			]
+		}
+	},
+	"version": 1
+}
