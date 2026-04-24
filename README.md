@@ -5,7 +5,7 @@ Este repositório contém uma implementação mínima de uma aplicação Web3 qu
 ## Objetivo
 Demonstrar a gravação de dados de forma imutável na rede de teste **Ethereum Sepolia**, simulando um registro simples de logística ("Produto enviado").
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 *   **Linguagem:** Solidity 0.8.1
 *   **IDE:** [Remix](https://ethereum.org)
 *   **Rede:** Sepolia Testnet
